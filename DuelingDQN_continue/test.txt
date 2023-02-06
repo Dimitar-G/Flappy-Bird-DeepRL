@@ -1,0 +1,10 @@
+DuelingDQN trained for 200 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 400 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 600 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 800 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 1000 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 1200 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 1400 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 1600 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 1800 episodes: Average reward in 100 tests 101.0
+DuelingDQN trained for 2000 episodes: Average reward in 100 tests 101.0

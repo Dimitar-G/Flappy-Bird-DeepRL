@@ -1,0 +1,5 @@
+new custom reward system
+added *10 on height difference
+added -10 on losing
+
+bet models 600, 740, 810, 850
